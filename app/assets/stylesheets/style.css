@@ -1,0 +1,36 @@
+ul {
+	padding:0px;
+}
+
+#logo {
+	width: 15%;
+	display: block;
+	margin: 0 auto;
+	margin-top:50px;
+
+}
+
+#main-image-list {
+	margin-top: 100px;
+	margin-bottom: 200px;
+	display: block;
+	text-align: center;
+}
+
+#main-image-list li {
+	display: inline-block;
+}
+
+#main-image-list img {
+	height: 200px;
+	width: 200px;
+}
+
+
+#main-image-list img:hover {
+	cursor: pointer;
+	opacity: .6;
+}
+
+
+

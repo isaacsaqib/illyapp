@@ -1,0 +1,52 @@
+ul {
+	padding:0px;
+}
+
+#logo {
+	width: 15%;
+	display: block;
+	margin: 0 auto;
+	margin-top:50px;
+
+}
+
+#main-image-list {
+	margin-top: 100px;
+	margin-bottom: 200px;
+	display: block;
+	text-align: center;
+}
+
+#main-image-list li {
+	display: inline-block;
+}
+
+#main-image-list img {
+	height: 200px;
+	width: 200px;
+}
+
+
+#main-image-list img:hover {
+	cursor: pointer;
+	opacity: .6;
+}
+
+
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
